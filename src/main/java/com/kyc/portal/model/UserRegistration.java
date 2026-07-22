@@ -60,7 +60,7 @@ public class UserRegistration {
                 + "Full Name: " + fullName + System.lineSeparator()
                 + "Date of Birth: " + dateOfBirth + System.lineSeparator()
                 + "Age: " + age + System.lineSeparator()
-                + "Email: " + email + System.lineSeparator()
+                + "Email Address: " + email + System.lineSeparator()
                 + "Phone Number: " + phoneNumber + System.lineSeparator()
                 + "Government ID: " + governmentId + System.lineSeparator()
                 + "Address: " + address;
