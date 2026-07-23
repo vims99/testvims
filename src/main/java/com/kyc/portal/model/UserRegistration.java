@@ -58,7 +58,7 @@ public class UserRegistration {
     public String toString() {
         return "Registration ID: " + registrationId + System.lineSeparator()
                 + "Full Name: " + fullName + System.lineSeparator()
-                + "Date of Birth: " + dateOfBirth + System.lineSeparator()
+                + "DoB: " + dateOfBirth + System.lineSeparator()
                 + "Age: " + age + System.lineSeparator()
                 + "Email Address: " + email + System.lineSeparator()
                 + "Phone Number: " + phoneNumber + System.lineSeparator()
