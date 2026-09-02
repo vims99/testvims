@@ -14,7 +14,7 @@ public class UserRegistration {
                             String email, String phoneNumber, String governmentId, String address) {
         this.registrationId = registrationId;
         this.fullName = fullName;
-        this.dateOfBirth = dateOfBirth;
+        this.dob = dateOfBirth;
         this.age = age;
         this.email = email;
         this.phoneNumber = phoneNumber;
